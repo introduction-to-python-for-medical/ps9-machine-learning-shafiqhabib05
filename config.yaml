@@ -1,2 +1,2 @@
-path: "path_to_model.joblib
-features: ['feature_A', 'feature_B']
+path: "parkinsons_model.joblib"
+features: ['MDVP:Flo(Hz)', 'MDVP:RAP']
