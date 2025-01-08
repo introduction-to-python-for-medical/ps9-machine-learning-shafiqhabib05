@@ -1,2 +1,2 @@
-path: "parkinsons_model.joblib"
+path: "parkinsons_model.joblib(1)"
 features: ['MDVP:Fo(Hz)', 'MDVP:Flo(Hz)']
